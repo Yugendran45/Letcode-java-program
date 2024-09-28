@@ -1,6 +1,6 @@
 package Task_series;
 
-public class Task_8 {
+public class Task_89 {
 	
 	
 	public static void main(String args[]) {
